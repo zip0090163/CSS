@@ -1,0 +1,31 @@
+div {
+      color: blue;
+    }
+  
+div{
+   border: 1px solid slategray;
+}
+
+button{
+    border-color: springgreen;
+    border-width: 10px;
+    padding: 5px 40px;
+    background-color: wheat;
+    font-size: medium;
+    font-stretch: normal;
+    color: red;
+
+}
+
+header{
+    font-weight: bold;
+    color: blue;
+    font-size: x-large;
+
+}
+
+footer{
+    font-weight: bold;
+    color: blue;
+    font-size: x-large;
+}
